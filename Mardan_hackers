@@ -531,8 +531,8 @@ class crackmenu:
                                   
                         
                         
-                    zkth(pwx.split(','))
-                    break
+                    
+                    
         elif zk in ('D', 'd', '1', '01'):
             os.system('clear')
             print logo
