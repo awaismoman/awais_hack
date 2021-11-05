@@ -528,7 +528,7 @@ class crackmenu:
                                     userid = uid.split('<=>')[0]
                                     form.submit(self.api, userid, zsc)
                                
-                                  pass
+                                  
                         os.remove(self.apk)
                         results(ok, cp)
                     zkth(pwx.split(','))
