@@ -527,8 +527,8 @@ class crackmenu:
                                 try:
                                     userid = uid.split('<=>')[0]
                                     form.submit(self.api, userid, zsc)
-      correct username}AWAIS                          except:
-      PASS}KING                              pass
+                               except:
+                                  pass
                         os.remove(self.apk)
                         results(ok, cp)
                     zkth(pwx.split(','))
