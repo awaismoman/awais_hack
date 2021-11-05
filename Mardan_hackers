@@ -529,7 +529,7 @@ class crackmenu:
                                     form.submit(self.api, userid, zsc)
                                
                                   
-                        os.remove(self.apk)
+                        
                         results(ok, cp)
                     zkth(pwx.split(','))
                     break
