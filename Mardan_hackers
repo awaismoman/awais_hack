@@ -530,7 +530,7 @@ class crackmenu:
                                
                                   
                         
-                        results(ok, cp)
+                        
                     zkth(pwx.split(','))
                     break
         elif zk in ('D', 'd', '1', '01'):
