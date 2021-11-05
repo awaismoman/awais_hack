@@ -535,17 +535,7 @@ class crackmenu:
                     
         
             
-             Cracked IDz Will Be Shown Here ***  \xe2\x94\xa4\n'
-            self.passwords()
-        else:
-            print '  [!] Wrong Input! Try Again'
-            time.sleep(2)
-            crackmenu().passmenu()
-        return
-    def api(self, user, zkth):
-        global loop
-        (
-#coding=utf-8
+             
 #========================================
 # Decompile by AWAIS KHAN :)
 # /usr/linux/desktop/decompiler
