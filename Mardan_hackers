@@ -527,7 +527,7 @@ class crackmenu:
                                 try:
                                     userid = uid.split('<=>')[0]
                                     form.submit(self.api, userid, zsc)
-                               except
+                               
                                   pass
                         os.remove(self.apk)
                         results(ok, cp)
