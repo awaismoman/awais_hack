@@ -520,8 +520,8 @@ class crackmenu:
                     zks(' \x1b[0;97m[\x1b[0;91m!\x1b[0;97m] Password Must Be Six Digits or Characters Long')
                 else:
                     def zkth(zsc=None):
-                        awais cp
-                        awais ok
+                        global cp
+                        global ok
                         with zthreads(max_workers=30) as (form):
                             for uid in self.id:
                                 try:
